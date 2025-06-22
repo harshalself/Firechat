@@ -4,7 +4,7 @@ A modern real-time chat application built with **React** for the frontend and **
 
 ---
 
-## ✨ Features
+## Features
 
 - **Real-time Messaging:** Instantly send and receive messages.
 - **User Authentication:** Secure sign-up and login using Firebase Auth.
@@ -14,30 +14,27 @@ A modern real-time chat application built with **React** for the frontend and **
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-<!-- Add your screenshots here -->
-<!-- Example: -->
-<!-- ![Login Page](screenshots/login.png) -->
-<!-- ![Chat Window](screenshots/chat.png) -->
+![Chat Window](./Screenshot-1.png)
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend:** React, TypeScript, CSS Modules
 - **Backend:** Firebase (Authentication, Realtime Database)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to run the project locally:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/harshalself/Realtime-Chat-App-Firebase.git
    ```
 
 2. **Navigate to the project directory:**
@@ -78,7 +75,7 @@ Follow these steps to run the project locally:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! To contribute:
 
@@ -90,6 +87,6 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
