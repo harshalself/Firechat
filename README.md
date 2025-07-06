@@ -1,4 +1,4 @@
-# Realtime Chat App
+# Firechat
 
 A modern real-time chat application built with **React** for the frontend and **Firebase** for the backend. This project leverages Firebase Authentication and Realtime Database to provide seamless, instant messaging between users.
 
