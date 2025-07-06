@@ -34,13 +34,13 @@ Follow these steps to run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/harshalself/Realtime-Chat-App-Firebase.git
+   git clone https://github.com/harshalself/Firechat.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd Realtime-Chat-App
+   cd Firechat
    ```
 
 3. **Install dependencies:**
